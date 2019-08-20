@@ -1,0 +1,8 @@
+Run find_Eords.js script 
+node find_word.js ../shop-pulse/src/app -strings  ts
+
+Sort json keys in json file
+sort-json texts.json --ignore-case
+
+Diff JSON files
+node json_key_diff.js ../Scripts/texts.json ../shop-pulse/src/assets/i18n/fr.json

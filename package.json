@@ -1,0 +1,11 @@
+{
+  "name": "filter-json",
+  "version": "1.0.0",
+  "description": "filter strings in code base and create a json. ",
+  "main": "find_word.js",
+  "scripts": {
+    "test": "node find_word.js code-base-path  -filter-criteria  file-extn"
+  },
+  "author": "chandrima dasgupta",
+  "license": "ISC"
+}
